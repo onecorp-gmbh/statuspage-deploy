@@ -1,0 +1,8 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Statusfy//status.onecorp.eu//calendar//scheduled//EN
+NAME:oneCorp Systems Status
+X-WR-CALNAME:oneCorp Systems Status
+TIMEZONE-ID:UTC
+X-WR-TIMEZONE:UTC
+END:VCALENDAR

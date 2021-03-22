@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://status.onecorp.eu</id>
+    <title>oneCorp Systems Status</title>
+    <updated>2021-03-22T16:00:58.233Z</updated>
+    <generator>Statusfy</generator>
+    <link rel="alternate" href="https://status.onecorp.eu"/>
+    <link rel="self" href="https://status.onecorp.eu/feeds/incidents.en.atom"/>
+    <subtitle>oneCorp Systems Status Page</subtitle>
+</feed>
