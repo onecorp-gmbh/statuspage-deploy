@@ -1,8 +1,19 @@
 BEGIN:VCALENDAR
 VERSION:2.0
+CALSCALE:GREGORIAN
 PRODID:-//Statusfy//status.onecorp.eu//calendar//scheduled//EN
 NAME:oneCorp Systems Status
 X-WR-CALNAME:oneCorp Systems Status
 TIMEZONE-ID:UTC
 X-WR-TIMEZONE:UTC
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:0915bc9a@status.onecorp.eu
+SUMMARY:Network Infrastructure maintenance
+DTSTAMP:20210406T154700Z
+DTSTART:20210407T140000Z
+DTEND:20210407T150000Z
+DESCRIPTION:We are upgrading network equipment in Frankfurt
+END:VEVENT
 END:VCALENDAR
