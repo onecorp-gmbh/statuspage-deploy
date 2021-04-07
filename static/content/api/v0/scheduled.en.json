@@ -1,1 +1,1 @@
-{"count":1,"incidents":[{"id":"0915bc9a","title":"Network Infrastructure maintenance","description":"We are upgrading network equipment in Frankfurt","date":"2021-04-06T15:42:18.907Z","modified":"2021-04-06T15:47:04.934Z","scheduled":"2021-04-07T14:00:00.000Z","duration":60,"severity":"under-maintenance","affectedsystems":["network"],"resolved":false,"content":"<p>We are upgrading network equipment in Frankfurt am Main. Expect short network interruptions (&lt; 1min) for servers located in Frankfurt.</p>\n<!--- language code: en -->\n"}]}
+{"count":0,"incidents":[]}

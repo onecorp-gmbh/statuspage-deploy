@@ -1,12 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>oneCorp Systems Status</title>
         <link>https://status.onecorp.eu</link>
         <description>oneCorp Systems Status Page</description>
-        <lastBuildDate>Tue, 06 Apr 2021 15:47:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Apr 2021 15:20:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.onecorp.eu/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Network Infrastructure maintenance]]></title>
+            <link>https://status.onecorp.eu/incidents/0915bc9a</link>
+            <guid>https://status.onecorp.eu/incidents/0915bc9a</guid>
+            <pubDate>Wed, 07 Apr 2021 15:03:48 GMT</pubDate>
+            <description><![CDATA[We are upgrading network equipment in Frankfurt]]></description>
+            <content:encoded><![CDATA[<p>We are upgrading network equipment in Frankfurt am Main. Expect short network interruptions (&lt; 1min) for servers located in Frankfurt.</p>
+<!--- language code: en -->
+<div class="update-block">
+          <div class="update-block-date">2021-04-07T15:03:48.568Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Resolved</div>
+            <div class="update-block-body">
+<p>Maintenance is now complete.</p>
+</div></div></div>
+]]></content:encoded>
+        </item>
     </channel>
 </rss>
