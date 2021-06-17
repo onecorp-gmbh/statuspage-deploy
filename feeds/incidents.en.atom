@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.onecorp.eu</id>
     <title>oneCorp Systems Status</title>
-    <updated>2021-04-07T15:20:06.017Z</updated>
+    <updated>2021-06-17T15:15:46.805Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.onecorp.eu"/>
     <link rel="self" href="https://status.onecorp.eu/feeds/incidents.en.atom"/>
     <subtitle>oneCorp Systems Status Page</subtitle>
+    <entry>
+        <title type="html"><![CDATA[High temperature at site DUS6]]></title>
+        <id>https://status.onecorp.eu/incidents/87c78a5e</id>
+        <link href="https://status.onecorp.eu/incidents/87c78a5e"/>
+        <updated>2021-06-17T15:14:26.000Z</updated>
+        <summary type="html"><![CDATA[Since 13:50 (UTC) there are temperature problems at site DUS6 which leads to emergency shutdown of some servers.
+Our technicians and the technicians from the data center are already working with high pressure on a solution.]]></summary>
+        <content type="html"><![CDATA[<p>Since 13:50 (UTC) there are temperature problems at site DUS6 which leads to emergency shutdown of some servers.
+Our technicians and the technicians from the data center are already working with high pressure on a solution.</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Network Infrastructure maintenance]]></title>
         <id>https://status.onecorp.eu/incidents/0915bc9a</id>

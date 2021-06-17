@@ -4,10 +4,21 @@
         <title>oneCorp Systems Status</title>
         <link>https://status.onecorp.eu</link>
         <description>oneCorp Systems Status Page</description>
-        <lastBuildDate>Wed, 07 Apr 2021 15:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Jun 2021 15:15:46 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.onecorp.eu/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[High temperature at site DUS6]]></title>
+            <link>https://status.onecorp.eu/incidents/87c78a5e</link>
+            <guid>https://status.onecorp.eu/incidents/87c78a5e</guid>
+            <pubDate>Thu, 17 Jun 2021 15:14:26 GMT</pubDate>
+            <description><![CDATA[Since 13:50 (UTC) there are temperature problems at site DUS6 which leads to emergency shutdown of some servers.
+Our technicians and the technicians from the data center are already working with high pressure on a solution.]]></description>
+            <content:encoded><![CDATA[<p>Since 13:50 (UTC) there are temperature problems at site DUS6 which leads to emergency shutdown of some servers.
+Our technicians and the technicians from the data center are already working with high pressure on a solution.</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Network Infrastructure maintenance]]></title>
             <link>https://status.onecorp.eu/incidents/0915bc9a</link>
