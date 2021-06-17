@@ -4,7 +4,7 @@
         <title>oneCorp Systems Status</title>
         <link>https://status.onecorp.eu</link>
         <description>oneCorp Systems Status Page</description>
-        <lastBuildDate>Thu, 17 Jun 2021 15:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Jun 2021 21:27:38 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.onecorp.eu/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
@@ -17,6 +17,14 @@
 Our technicians and the technicians from the data center are already working with high pressure on a solution.]]></description>
             <content:encoded><![CDATA[<p>Since 13:50 (UTC) there are temperature problems at site DUS6 which leads to emergency shutdown of some servers.
 Our technicians and the technicians from the data center are already working with high pressure on a solution.</p>
+<div class="update-block">
+          <div class="update-block-date">2021-06-17T21:26:21.000Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Resolved</div>
+            <div class="update-block-body">
+<p>The reason for the high temperatures was a failure of a climate box.
+The malfunction has been repaired and the temperatures are returning to normal.</p>
+</div></div></div>
 ]]></content:encoded>
         </item>
         <item>
