@@ -4,7 +4,7 @@
         <title>oneCorp Systems Status</title>
         <link>https://status.onecorp.eu</link>
         <description>oneCorp Systems Status Page</description>
-        <lastBuildDate>Tue, 28 Sep 2021 20:10:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Sep 2021 22:39:14 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.onecorp.eu/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
@@ -24,6 +24,13 @@ Please expect short interruptions between 18:00 and 22:00 (GMT+2).</p>
             <div class="update-block-body">
 <p>Migration is taking longer than expected. We currently have no ETA.
 Subscriptions are still being migrated and are unreachable for about 5 minutes each during switchover.</p>
+</div></div></div>
+<div class="update-block">
+          <div class="update-block-date">2021-09-28T22:35:00.000Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Migration Paused</div>
+            <div class="update-block-body">
+<p>We will pause migration for now. Subscriptions not yet migrated will be transferred in the morning.</p>
 </div></div></div>
 ]]></content:encoded>
         </item>
