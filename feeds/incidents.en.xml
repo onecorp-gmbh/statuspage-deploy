@@ -4,10 +4,21 @@
         <title>oneCorp Systems Status</title>
         <link>https://status.onecorp.eu</link>
         <description>oneCorp Systems Status Page</description>
-        <lastBuildDate>Wed, 29 Sep 2021 10:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 08:26:03 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.onecorp.eu/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[network connectivity issues]]></title>
+            <link>https://status.onecorp.eu/incidents/61c672ea</link>
+            <guid>https://status.onecorp.eu/incidents/61c672ea</guid>
+            <pubDate>Wed, 03 Nov 2021 08:24:48 GMT</pubDate>
+            <description><![CDATA[Due to a technical problem, the network connectivity of individual IP addresses is currently limited.
+We are already working on a solution]]></description>
+            <content:encoded><![CDATA[<p>Due to a technical problem, the network connectivity of individual IP addresses is currently limited.
+We are already working on a solution</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[radon.onecorp.eu Migration]]></title>
             <link>https://status.onecorp.eu/incidents/58e5c3cd</link>
