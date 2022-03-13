@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.onecorp.eu</id>
     <title>oneCorp Systems Status</title>
-    <updated>2021-11-03T08:49:36.149Z</updated>
+    <updated>2022-03-13T14:10:58.058Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.onecorp.eu"/>
     <link rel="self" href="https://status.onecorp.eu/feeds/incidents.en.atom"/>
     <subtitle>oneCorp Systems Status Page</subtitle>
+    <entry>
+        <title type="html"><![CDATA[network connectivity issues]]></title>
+        <id>https://status.onecorp.eu/incidents/54571a2d</id>
+        <link href="https://status.onecorp.eu/incidents/54571a2d"/>
+        <updated>2022-03-13T14:09:38.000Z</updated>
+        <summary type="html"><![CDATA[Due to a hardware problem, there are currently limitations in the network connection.
+
+We are already working on a solution
+]]></summary>
+        <content type="html"><![CDATA[<p>Due to a hardware problem, there are currently limitations in the network connection.</p>
+<p>We are already working on a solution</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[network connectivity issues]]></title>
         <id>https://status.onecorp.eu/incidents/61c672ea</id>
