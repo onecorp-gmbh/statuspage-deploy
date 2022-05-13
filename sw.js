@@ -28,6 +28,6 @@ workbox.precaching.cleanupOutdatedCaches()
 // --------------------------------------------------
 
 // Register route handlers for runtimeCaching
-workbox.routing.registerRoute(new RegExp('(/static/content)?/api/v0/.*'), new workbox.strategies.NetworkFirst ({"cacheName":"onecorp_systems_status_api","cacheExpiration":{"maxEntries":10,"maxAgeSeconds":300}}), 'GET')
+workbox.routing.registerRoute(new RegExp('(/static/content)?/api/v0/.*'), new workbox.strategies.NetworkFirst ({"cacheName":"onecorp_gmbh_status_api","cacheExpiration":{"maxEntries":10,"maxAgeSeconds":300}}), 'GET')
 workbox.routing.registerRoute(new RegExp('/static/(?!content).*$'), new workbox.strategies.CacheFirst ({}), 'GET')
 workbox.routing.registerRoute(new RegExp('/'), new workbox.strategies.NetworkFirst ({}), 'GET')

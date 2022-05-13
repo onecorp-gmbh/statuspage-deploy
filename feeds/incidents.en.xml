@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>oneCorp Systems Status</title>
+        <title>oneCorp GmbH Status</title>
         <link>https://status.onecorp.eu</link>
-        <description>oneCorp Systems Status Page</description>
-        <lastBuildDate>Fri, 13 May 2022 07:14:57 GMT</lastBuildDate>
+        <description>oneCorp GmbH Status Page</description>
+        <lastBuildDate>Fri, 13 May 2022 07:26:43 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.onecorp.eu/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
