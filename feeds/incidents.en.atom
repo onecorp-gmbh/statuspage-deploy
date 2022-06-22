@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.onecorp.eu</id>
     <title>oneCorp GmbH Status</title>
-    <updated>2022-06-22T14:20:55.181Z</updated>
+    <updated>2022-06-22T14:21:21.695Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.onecorp.eu"/>
     <link rel="self" href="https://status.onecorp.eu/feeds/incidents.en.atom"/>
