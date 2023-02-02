@@ -2,11 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.onecorp.eu</id>
     <title>oneCorp GmbH Status</title>
-    <updated>2022-06-23T07:15:15.752Z</updated>
+    <updated>2023-02-02T12:15:16.568Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.onecorp.eu"/>
     <link rel="self" href="https://status.onecorp.eu/feeds/incidents.en.atom"/>
     <subtitle>oneCorp GmbH Status Page</subtitle>
+    <entry>
+        <title type="html"><![CDATA[outage compute4]]></title>
+        <id>https://status.onecorp.eu/incidents/51e22126</id>
+        <link href="https://status.onecorp.eu/incidents/51e22126"/>
+        <updated>2023-02-02T02:54:00.000Z</updated>
+        <summary type="html"><![CDATA[We currently have a compute node outage at the Düsseldorf site 
+
+We are already working on a solution
+]]></summary>
+        <content type="html"><![CDATA[<p>The compute node 4 in our public cloud cluster has failed and we are currently working on analyzing the cause.</p>
+<div class="update-block">
+          <div class="update-block-date">2023-02-02T03:00:00.000Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Update</div>
+            <div class="update-block-body">
+<p>The compute node 4 rebooted and is now back online. The cause of this problem was a malfunction of the hardware.</p>
+</div></div></div>
+<div class="update-block">
+          <div class="update-block-date">2023-02-02T08:01:00.000Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Update</div>
+            <div class="update-block-body">
+<p>Our automatic system restarted all vServers directly after the reboot, but this process failed on a few vServers.
+The Technical-Department restarted those affected vServers manually. They should be back online now.
+If you need assistance with this issue, feel free to contact us via support@onecorp.eu or phone +4962238009950</p>
+</div></div></div>
+<div class="update-block">
+          <div class="update-block-date">2023-02-02T10:16:00.000Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Update</div>
+            <div class="update-block-body">
+<p>In order to replace the defective hardware, we ordered replacement parts.
+We will update this issue, when we expect the delivery of those parts.</p>
+</div></div></div>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[power failure at Düsseldorf site]]></title>
         <id>https://status.onecorp.eu/incidents/638b5480</id>
