@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.onecorp.eu</id>
     <title>oneCorp GmbH Status</title>
-    <updated>2023-02-02T12:15:16.568Z</updated>
+    <updated>2023-02-02T13:30:01.395Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.onecorp.eu"/>
     <link rel="self" href="https://status.onecorp.eu/feeds/incidents.en.atom"/>
@@ -22,7 +22,7 @@ We are already working on a solution
           <div class="update-block-content">
             <div class="update-block-title">Update</div>
             <div class="update-block-body">
-<p>The compute node 4 rebooted and is now back online. The cause of this problem was a malfunction of the hardware.</p>
+<p>One of the two cpus in the compute node 4 had a malfunction. The node rebooted and is now back online.</p>
 </div></div></div>
 <div class="update-block">
           <div class="update-block-date">2023-02-02T08:01:00.000Z</div>
