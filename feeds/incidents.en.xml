@@ -4,7 +4,7 @@
         <title>oneCorp GmbH Status</title>
         <link>https://status.onecorp.eu</link>
         <description>oneCorp GmbH Status Page</description>
-        <lastBuildDate>Thu, 09 Feb 2023 10:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 10:16:25 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.onecorp.eu/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
@@ -12,7 +12,7 @@
             <title><![CDATA[outage compute4]]></title>
             <link>https://status.onecorp.eu/incidents/51e22126</link>
             <guid>https://status.onecorp.eu/incidents/51e22126</guid>
-            <pubDate>Thu, 02 Feb 2023 02:54:00 GMT</pubDate>
+            <pubDate>Wed, 08 Feb 2023 12:13:00 GMT</pubDate>
             <description><![CDATA[We currently have a compute node outage at the Düsseldorf site 
 
 We are already working on a solution

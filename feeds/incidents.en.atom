@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.onecorp.eu</id>
     <title>oneCorp GmbH Status</title>
-    <updated>2023-02-09T10:13:26.206Z</updated>
+    <updated>2023-02-09T10:16:25.435Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.onecorp.eu"/>
     <link rel="self" href="https://status.onecorp.eu/feeds/incidents.en.atom"/>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[outage compute4]]></title>
         <id>https://status.onecorp.eu/incidents/51e22126</id>
         <link href="https://status.onecorp.eu/incidents/51e22126"/>
-        <updated>2023-02-02T02:54:00.000Z</updated>
+        <updated>2023-02-08T12:13:00.000Z</updated>
         <summary type="html"><![CDATA[We currently have a compute node outage at the Düsseldorf site 
 
 We are already working on a solution
