@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.onecorp.eu</id>
     <title>oneCorp GmbH Status</title>
-    <updated>2023-02-09T10:16:25.435Z</updated>
+    <updated>2023-02-09T10:18:01.126Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.onecorp.eu"/>
     <link rel="self" href="https://status.onecorp.eu/feeds/incidents.en.atom"/>
@@ -53,8 +53,7 @@ We will update this issue, when we expect the delivery of those parts.</p>
           <div class="update-block-content">
             <div class="update-block-title">Update</div>
             <div class="update-block-body">
-<p>The maintenance and replacement process will start in a few minutes
-We do not expect any downtime for your vServers</p>
+<p>The maintenance and replacement process will start in a few minutes. We do not expect any downtime for your vServers</p>
 </div></div></div>
 <div class="update-block">
           <div class="update-block-date">2023-02-08T12:13:00.000Z</div>

@@ -4,7 +4,7 @@
         <title>oneCorp GmbH Status</title>
         <link>https://status.onecorp.eu</link>
         <description>oneCorp GmbH Status Page</description>
-        <lastBuildDate>Thu, 09 Feb 2023 10:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 10:18:01 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.onecorp.eu/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
@@ -54,8 +54,7 @@ We will update this issue, when we expect the delivery of those parts.</p>
           <div class="update-block-content">
             <div class="update-block-title">Update</div>
             <div class="update-block-body">
-<p>The maintenance and replacement process will start in a few minutes
-We do not expect any downtime for your vServers</p>
+<p>The maintenance and replacement process will start in a few minutes. We do not expect any downtime for your vServers</p>
 </div></div></div>
 <div class="update-block">
           <div class="update-block-date">2023-02-08T12:13:00.000Z</div>
